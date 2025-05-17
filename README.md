@@ -34,12 +34,7 @@ The dataset contains the following user attributes:
 
 I created a comprehensive Power BI dashboard to visualize key trends and insights based on the above data.
 
-👉 **[View Dashboard](#)** (insert your Power BI public or shared link here)
-
-![Dashboard Preview](dashboard-preview.png)
-
-> To open the dashboard source file in Power BI Desktop, download:
-**[amazon_prime_cleaned.pbix](./amazon_prime_cleaned.pbix)** _(optional)_
+👉 https://github.com/sunilprajapati832/AmazonPrimeVideo_PowerBI_VisualReport/blob/main/AmazonPrimePowerBI_VisualReport.pbix
 
 ---
 
@@ -61,19 +56,5 @@ This dashboard is based on solving the following questions from the original pro
 
 ---
 
-## 🙏 Credits
-
-Original project created by https://github.com/abhayvikramnayak98/AmazonPrimeVideo_UsersEDA.git  
-I pulled the project and enhanced it by integrating **Power BI dashboarding capabilities** for a better visual and analytical perspective.
-
----
-
-## 🚀 How to Run
-
-1. Download this repo
-2. Open `amazon_prime_cleaned.csv` in **Power BI Desktop**
-3. Explore the dashboard or use `amazon_prime_cleaned.pbix` file (if shared)
-
----
 
 
