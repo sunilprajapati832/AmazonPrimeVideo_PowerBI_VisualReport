@@ -2,7 +2,7 @@
 
 # 📊 Amazon Prime User Insights Dashboard
 
-This project is a data analysis and visualization report based on a dataset of Amazon Prime users. It originally focused on solving a series of exploratory data analysis (EDA) questions using Python and Jupyter Notebooks. I have extended the project by building an interactive Power BI Dashboard to visualize key metrics and trends.
+This project is a data analysis and visualization report based on a dataset of Amazon Prime users. It originally focused on solving a series of exploratory data analysis (EDA) questions using Python. I have extended the project by building an interactive Power BI Dashboard to visualize key metrics and trends.
 
 ---
 
@@ -52,7 +52,6 @@ This dashboard is based on solving the following questions from the original pro
 8. Average usage frequency  
 9. Users with specific purchase history  
 10. Favorite genres of users and their count  
-... _(See full list in `dataset_questions.txt`)_
 
 ---
 
