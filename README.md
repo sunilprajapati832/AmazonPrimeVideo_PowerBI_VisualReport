@@ -4,8 +4,6 @@
 
 This project is a data analysis and visualization report based on a dataset of Amazon Prime users. It originally focused on solving a series of exploratory data analysis (EDA) questions using Python. I have extended the project by building an interactive Power BI Dashboard to visualize key metrics and trends.
 
----
-
 ## ✨ Project Highlights
 
 - Demographic breakdown (gender, location, age)
