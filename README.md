@@ -30,8 +30,6 @@ I created a comprehensive Power BI dashboard to visualize key trends and insight
 
 👉 https://github.com/sunilprajapati832/AmazonPrimeVideo_PowerBI_VisualReport/blob/main/AmazonPrimePowerBI_VisualReport.pbix
 
----
-
 ## 🔍 EDA Questions Solved
 
 This dashboard is based on solving the following questions from the original project:
