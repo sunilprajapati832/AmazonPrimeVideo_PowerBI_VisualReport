@@ -24,8 +24,6 @@ The dataset contains the following user attributes:
 - Content: `favorite_genres`, `purchase_history`
 - Support: `customer_support_interactions`
 
----
-
 ## 📈 Power BI Dashboard
 
 I created a comprehensive Power BI dashboard to visualize key trends and insights based on the above data.
