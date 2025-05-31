@@ -14,8 +14,6 @@ This project is a data analysis and visualization report based on a dataset of A
 - Customer support interaction summary
 - Purchase history analysis
 
----
-
 ## 📁 Dataset Overview
 
 The dataset contains the following user attributes:
