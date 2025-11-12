@@ -69,7 +69,8 @@ This dashboard helps analyze:
 
 ## Tools & Technologies Used
 - **Power BI Desktop** – Dashboard creation and DAX measures.  
-- **Power Query** – Data cleaning and transformation.  
+- **Power Query** – Data cleaning and transformation.
+- **IDE** - PyCharm (Python)  
 - **Microsoft Excel / CSV** – Dataset source format.  
 - **GitHub** – Version control and project hosting.  
 
