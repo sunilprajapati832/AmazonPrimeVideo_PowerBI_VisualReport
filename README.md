@@ -100,6 +100,6 @@ If you use or share this work, please credit **Sunil Prajapati** and include a l
 
 ## Author
 **Sunil Prajapati**  
-📧 [Connect on LinkedIn](https://www.linkedin.com/in/sunilprajapati832/)  
-📂 [GitHub Profile](https://github.com/sunilprajapati832)  
-📍 *Data Analyst | Power BI | Python | SQL | Excel*
+If you found this project interesting, let’s connect!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sunil-prajapati832) 
