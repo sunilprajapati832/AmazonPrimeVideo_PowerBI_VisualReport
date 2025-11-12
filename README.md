@@ -67,6 +67,12 @@ This dashboard helps analyze:
 * Device-based user engagement
 * Feedback distribution and support interaction frequency
 
+## Tools & Technologies Used
+- **Power BI Desktop** – Dashboard creation and DAX measures.  
+- **Power Query** – Data cleaning and transformation.  
+- **Microsoft Excel / CSV** – Dataset source format.  
+- **GitHub** – Version control and project hosting.  
+
 
 
 
