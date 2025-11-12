@@ -60,6 +60,12 @@ The Power BI dashboard offers an interactive visualization experience that helps
     * 🥧 Pie Chart: Subscription Plans (Monthly, Annually)
     * 🌍 Google Map Visualization: Users by Country
 
+## Purpose
+This dashboard helps analyze:
+* Genre popularity across demographics
+* Renewal and retention trends
+* Device-based user engagement
+* Feedback distribution and support interaction frequency
 
 
 
