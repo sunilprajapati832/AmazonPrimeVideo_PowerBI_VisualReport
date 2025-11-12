@@ -4,8 +4,9 @@
 This project aims to explore and analyze Amazon Prime user data to uncover insights about user engagement, subscription patterns, genre preferences and customer satisfaction. The dataset provides a comprehensive view of user demographics, behavior and subscription details, enabling effective business insights and visualization using Power BI.
 
 ## Dataset Details
-Dataset Name: amazon_prime_cleaned.csv <br>
-Total Columns: 22
+* Dataset Name: amazon_prime_cleaned.csv
+* Total Columns: 22
+* The dataset contains the following user attributes:
 
 | **S.No.** | **Column Name** | **Description** |
 |------------|----------------|-----------------|
@@ -43,15 +44,23 @@ Total Columns: 22
 - Customer support interaction summary
 - Purchase history analysis
 
-## 📁 Dataset Overview
+## Data Cleaning & Preparation
 
-The dataset contains the following user attributes:
+The dataset was cleaned and preprocessed using Python (Pandas, NumPy) and exported as a refined .csv file for Power BI visualization. Key cleaning steps included:
+* Handling missing or null values
+* Formatting date columns (DOB, membership dates)
+* Standardizing categorical values (e.g., Gender, Subscription Plan)
+* Removing duplicates and invalid user entries
+* Deriving calculated fields such as: membership_duration_days | membership_active | high_engagement
 
-- Basic info: `username`, `email_address`, `gender`, `location`
-- Subscription: `subscription_plan`, `membership_start_date`, `membership_end_date`, `renewal_status`
-- Usage: `devices_used`, `usage_frequency`, `engagement_metrics`, `feedback_ratings`
-- Content: `favorite_genres`, `purchase_history`
-- Support: `customer_support_interactions`
+
+
+
+
+
+
+
+
 
 ## 📈 Power BI Dashboard
 
