@@ -1,8 +1,37 @@
-# AmazonPrimeVideo_PowerBI_VisualReport
+# Amazon Prime Video Data Analysis Power BI Dashboard Project
 
-# 📊 Amazon Prime User Insights Dashboard
+## Project Overview
+This project aims to explore and analyze Amazon Prime user data to uncover insights about user engagement, subscription patterns, genre preferences and customer satisfaction. The dataset provides a comprehensive view of user demographics, behavior and subscription details, enabling effective business insights and visualization using Power BI.
 
-This project is a data analysis and visualization report based on a dataset of Amazon Prime users. It originally focused on solving a series of exploratory data analysis (EDA) questions using Python. I have extended the project by building an interactive Power BI Dashboard to visualize key metrics and trends.
+## Dataset Details
+Dataset Name: amazon_prime_cleaned.csv
+Total Columns: 22
+
+| **S.No.** | **Column Name** | **Description** |
+|------------|----------------|-----------------|
+| 1 | `user_id` | Unique identifier for each user. |
+| 2 | `name` | Full name of the customer. |
+| 3 | `email_address` | Registered email address for the account. |
+| 4 | `username` | Username used to access the platform. |
+| 5 | `date_of_birth` | Date of birth of the customer. |
+| 6 | `gender` | Gender of the customer. |
+| 7 | `location` | Geographic location or city of the customer. |
+| 8 | `membership_start_date` | The date when the Prime membership began. |
+| 9 | `membership_end_date` | The date when the Prime membership expired or is set to expire. |
+| 10 | `subscription_plan` | Type of plan (e.g., Monthly, Annual, Trial). |
+| 11 | `payment_information` | Payment method or status for the user. |
+| 12 | `renewal_status` | Indicates if the membership was renewed or cancelled. |
+| 13 | `usage_frequency` | Frequency of Prime Video usage (Daily, Weekly, Monthly). |
+| 14 | `purchase_history` | Summary of purchases or transactions made. |
+| 15 | `favorite_genres` | Genres most watched or liked by the user. |
+| 16 | `devices_used` | Devices used to access Prime Video (TV, Mobile, Laptop, etc.). |
+| 17 | `engagement_metrics` | Numeric engagement score or activity indicator. |
+| 18 | `feedback_ratings` | Average customer feedback rating or satisfaction score. |
+| 19 | `customer_support_interactions` | Count of customer service or support interactions. |
+| 20 | `membership_duration_days` | Total number of days of active membership. |
+| 21 | `membership_active` | Boolean flag indicating if membership is currently active. |
+| 22 | `high_engagement` | Indicates high engagement customers (based on defined threshold). |
+
 
 ## ✨ Project Highlights
 
