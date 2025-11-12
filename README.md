@@ -82,54 +82,24 @@ This dashboard helps analyze:
 | `amazon_prime_cleaned.csv` | Cleaned dataset used for visualization | [Download Dataset](https://github.com/sunilprajapati832/AmazonPrimeVideosDashboard/blob/main/amazon_prime_cleaned.csv) |
 | Dashboard Images | Preview screenshots of dashboard visuals | Available in the `Images/` folder on repository |
 
+## Learning Outcome
+This project demonstrates:
+- Data preparation and transformation in Power BI.  
+- Business intelligence reporting for subscription-based platforms.  
+- Interactive storytelling using Power BI visuals.  
+- Portfolio presentation with real-world analytics workflow.  
 
+## How to Use
+1. Download the `.pbix` file using the link above.  
+2. Open it in **Power BI Desktop**.  
+3. Explore interactive filters for customer behavior, engagement, and renewal trends.  
 
+## License
+This project is licensed under the **MIT License (Attribution Required)**.  
+If you use or share this work, please credit **Sunil Prajapati** and include a link to this repository.  
 
-
-
-
-
-
-
-
-
-## ✨ Project Highlights
-
-- Demographic breakdown (gender, location, age)
-- Subscription plan distribution (Annual, Monthly)
-- User engagement metrics and feedback ratings
-- Devices used and content preferences
-- Membership lifecycle and renewal status
-- Customer support interaction summary
-- Purchase history analysis
-
-
-
-
-
-
-## 📈 Power BI Dashboard
-
-I created a comprehensive Power BI dashboard to visualize key trends and insights based on the above data.
-
-👉 https://github.com/sunilprajapati832/AmazonPrimeVideo_PowerBI_VisualReport/blob/main/AmazonPrimePowerBI_VisualReport.pbix
-
-## 🔍 EDA Questions Solved
-
-This dashboard is based on solving the following questions from the original project:
-
-1. Retrieve the names and email addresses of all users  
-2. Find the number of users by gender  
-3. Get the usernames and membership start dates of users who joined before a certain date  
-4. Count the number of users from a specific location (e.g. Port...)  
-5. Subscription plans and their user count  
-6. Usernames with payment info  
-7. Renewal status of subscriptions  
-8. Average usage frequency  
-9. Users with specific purchase history  
-10. Favorite genres of users and their count  
-
----
-
-
-
+## Author
+**Sunil Prajapati**  
+📧 [Connect on LinkedIn](https://www.linkedin.com/in/sunilprajapati832/)  
+📂 [GitHub Profile](https://github.com/sunilprajapati832)  
+📍 *Data Analyst | Power BI | Python | SQL | Excel*
