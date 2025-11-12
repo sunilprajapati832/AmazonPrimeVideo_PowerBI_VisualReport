@@ -34,7 +34,6 @@ This project aims to explore and analyze Amazon Prime user data to uncover insig
 | 22 | `high_engagement` | Indicates high engagement customers (based on defined threshold). |
 
 ## Data Cleaning & Preparation
-
 The dataset was cleaned and preprocessed using Python (Pandas, NumPy) and exported as a refined .csv file for Power BI visualization. Key cleaning steps included:
 * Handling missing or null values
 * Formatting date columns (DOB, membership dates)
@@ -44,6 +43,34 @@ The dataset was cleaned and preprocessed using Python (Pandas, NumPy) and export
    * membership_duration_days
    * membership_active
    * high_engagement
+
+## Power BI Dashboard Overview
+The Power BI dashboard offers an interactive visualization experience that helps explore user insights in a clear and business-focused manner.
+* Key Metrics Displayed:
+    * Total Users
+    * Average Feedback Rating
+    * Total Support Interactions
+* Filters:
+    * Devices Used: SmartTV | Smartphone | Tablet
+* Graphs & Visualizations:
+    * 🍩 Donut Chart: Favorite Genres Count (Drama, Action, Horror, Romance, Comedy, etc.)
+    * 📈 Line Chart: Favorite Genres by Gender (Male vs Female)
+    * 📊 Bar Chart: Users by Gender
+    * 📉 Vertical Bar Chart: Renewal Subscription Trends (Increase, Decrease, Total)
+    * 🥧 Pie Chart: Subscription Plans (Monthly, Annually)
+    * 🌍 Google Map Visualization: Users by Country
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
