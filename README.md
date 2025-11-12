@@ -33,6 +33,19 @@ This project aims to explore and analyze Amazon Prime user data to uncover insig
 | 21 | `membership_active` | Boolean flag indicating if membership is currently active. |
 | 22 | `high_engagement` | Indicates high engagement customers (based on defined threshold). |
 
+## Data Cleaning & Preparation
+
+The dataset was cleaned and preprocessed using Python (Pandas, NumPy) and exported as a refined .csv file for Power BI visualization. Key cleaning steps included:
+* Handling missing or null values
+* Formatting date columns (DOB, membership dates)
+* Standardizing categorical values (e.g., Gender, Subscription Plan)
+* Removing duplicates and invalid user entries
+* Deriving calculated fields such as:
+   * membership_duration_days
+   * membership_active
+   * high_engagement
+
+
 
 ## ✨ Project Highlights
 
@@ -43,19 +56,6 @@ This project aims to explore and analyze Amazon Prime user data to uncover insig
 - Membership lifecycle and renewal status
 - Customer support interaction summary
 - Purchase history analysis
-
-## Data Cleaning & Preparation
-
-The dataset was cleaned and preprocessed using Python (Pandas, NumPy) and exported as a refined .csv file for Power BI visualization. Key cleaning steps included:
-* Handling missing or null values
-* Formatting date columns (DOB, membership dates)
-* Standardizing categorical values (e.g., Gender, Subscription Plan)
-* Removing duplicates and invalid user entries
-* Deriving calculated fields such as: membership_duration_days | membership_active | high_engagement
-
-
-
-
 
 
 
