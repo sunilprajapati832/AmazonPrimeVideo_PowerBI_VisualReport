@@ -4,7 +4,7 @@
 This project aims to explore and analyze Amazon Prime user data to uncover insights about user engagement, subscription patterns, genre preferences and customer satisfaction. The dataset provides a comprehensive view of user demographics, behavior and subscription details, enabling effective business insights and visualization using Power BI.
 
 ## Dataset Details
-Dataset Name: amazon_prime_cleaned.csv
+Dataset Name: amazon_prime_cleaned.csv <br>
 Total Columns: 22
 
 | **S.No.** | **Column Name** | **Description** |
