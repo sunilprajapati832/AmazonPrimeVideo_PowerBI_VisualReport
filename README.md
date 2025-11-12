@@ -78,8 +78,8 @@ This dashboard helps analyze:
 
 | **File Name** | **Description** | **Download Link** |
 |----------------|----------------|------------------|
-| `AmazonPrimePowerBI_VisualReport.pbix` | Power BI dashboard report file | [Download Here](https://github.com/sunilprajapati832/AmazonPrimeVideosDashboard/blob/main/AmazonPrimePowerBI_VisualReport.pbix) |
-| `amazon_prime_cleaned.csv` | Cleaned dataset used for visualization | [Download Dataset](https://github.com/sunilprajapati832/AmazonPrimeVideosDashboard/blob/main/amazon_prime_cleaned.csv) |
+| `AmazonPrimePowerBI_VisualReport.pbix` | Power BI dashboard report file | [Download Here](https://github.com/sunilprajapati832/AmazonPrimeVideo_PowerBI_VisualReport/blob/main/AmazonPrimePowerBI_VisualReport.pbix) |
+| `amazon_prime_cleaned.csv` | Cleaned dataset used for visualization | [Download Dataset](https://github.com/sunilprajapati832/AmazonPrimeVideo_PowerBI_VisualReport/blob/main/amazon_prime_cleaned.csv) |
 | Dashboard Images | Preview screenshots of dashboard visuals | Available in the `Images/` folder on repository |
 
 ## Learning Outcome
