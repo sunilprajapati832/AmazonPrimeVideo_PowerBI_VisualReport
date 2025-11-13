@@ -93,6 +93,13 @@ This project demonstrates:
 - Interactive storytelling using Power BI visuals.  
 - Portfolio presentation with real-world analytics workflow.  
 
+## Business Impact
+This analysis provides valuable insights for Amazon Prime’s decision-makers:
+- Improved Retention: By tracking renewal trends and engagement levels, the company can identify churn risks early.
+- Content Strategy: Genre preferences and gender-based patterns help optimize recommendations and production investments.
+- Revenue Optimization: Understanding plan preferences (monthly vs annual) supports pricing and promotional strategies.
+- Customer Experience: Feedback and support data highlight service quality and areas needing improvement.
+
 ## How to Use
 1. Download the `.pbix` file using the link above.  
 2. Open it in **Power BI Desktop**.  
