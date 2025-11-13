@@ -62,6 +62,7 @@ The Power BI dashboard offers an interactive visualization experience that helps
 
 ## Dashboard Preview
 ![Dashboard Preview](DashboardImages/AmazonPrimeDashBoard.png)
+![Dashboard Preview](DashboardImages/MobileViewDashboard.gif)
 
 ## Purpose
 This dashboard helps analyze:
