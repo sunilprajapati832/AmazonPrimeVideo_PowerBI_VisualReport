@@ -61,7 +61,7 @@ The Power BI dashboard offers an interactive visualization experience that helps
     * 🌍 Google Map Visualization: Users by Country
 
 ## Dashboard Preview
-![Dashboard Preview](DashboardImage/Car1_1.png)
+![Dashboard Preview](DashboardImages/AmazonPrimeDashBoard.png)
 
 ## Purpose
 This dashboard helps analyze:
